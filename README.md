@@ -1,4 +1,4 @@
-# 👋 𝘏𝘦𝘭𝘭𝘰, 𝘐'𝘮 𝘑𝘢𝘮𝘺𝘭𝘦 𝘌𝘭𝘦𝘯
+# 👋 𝘏𝘦𝘭𝘭𝘰, 𝘐'𝘮 Miles Elenwood
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamyle-dev&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamyle-dev&layout=compact&theme=tokyonight)
